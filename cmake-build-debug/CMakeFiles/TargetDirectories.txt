@@ -1,0 +1,3 @@
+/Users/kaungmyatsan/Desktop/OOP_Project_Thrown/cmake-build-debug/CMakeFiles/OOP_Project_Thrown.dir
+/Users/kaungmyatsan/Desktop/OOP_Project_Thrown/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kaungmyatsan/Desktop/OOP_Project_Thrown/cmake-build-debug/CMakeFiles/rebuild_cache.dir
